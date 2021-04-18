@@ -12,7 +12,24 @@ As a fictitious data engineer at Pewlett Hackard, I was assigned to conduct a re
 
 **Project Tasks**
 
-First, I created a table scheme for each file specifying data types, primary keys and foreign keys. I also used an ER Diagram to visualize how each table was connected to each other. 
+First, I created a table scheme for each file specifying data types, primary keys and foreign keys. 
+
+![](https://github.com/erinmann12/sql-challenge/blob/main/Images/schema.PNG)
+
+I also used an ER Diagram to visualize how each table was connected to each other. 
+
+![](https://github.com/erinmann12/sql-challenge/blob/main/EmployeeSQL/tablediagram.PNG)
 
 Next, I used data analysis to answer a series of questions about the data and used tactics such as joins and select statements. 
+
+![](https://github.com/erinmann12/sql-challenge/blob/main/Images/analysis.PNG)
+
 Finally, for the bonus analysis, I imported the SQL database into Pandas and visualized the data in a histogram and bar chart. 
+
+![](https://github.com/erinmann12/sql-challenge/blob/main/Images/histogram.png)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Erin Mann
+
+erin.mann2019@gmail.com
